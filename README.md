@@ -90,14 +90,14 @@ This project is developed for educational and personal portfolio purposes.
 ### Home
 ![Home](screenshots/home.png)
 
-### About Me
-![About](screenshots/about.png)
+### Profil
+![Profil](screenshots/profil.png)
 
-### My Skills
-![Skills](screenshots/skills.png)
+### Pendidikan
+![Pendidikan](screenshots/pendidikan.png)
 
-### My Projects
-![Projects](screenshots/projects.png)
+### Proyek
+![Proyek](screenshots/proyek.png)
 
-### Contact
-![Contact](screenshots/contact.png)
+### Kontak
+![Kontak](screenshots/kontak.png)
