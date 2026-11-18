@@ -84,3 +84,20 @@ SMK PGRI 2 Ponorogo
 ## License
 
 This project is developed for educational and personal portfolio purposes.
+
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### About Me
+![About](screenshots/about.png)
+
+### My Skills
+![Skills](screenshots/skills.png)
+
+### My Projects
+![Projects](screenshots/projects.png)
+
+### Contact
+![Contact](screenshots/contact.png)
