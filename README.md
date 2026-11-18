@@ -88,16 +88,16 @@ This project is developed for educational and personal portfolio purposes.
 ## 📸 Screenshots
 
 ### Home
-![Home](screenshots/home.png)
+![home](screenshots/home.png)
 
 ### Profil
-![Profil](screenshots/profil.png)
+![profil](screenshots/profil.png)
 
 ### Pendidikan
-![Pendidikan](screenshots/pendidikan.png)
+![pendidikan](screenshots/pendidikan.png)
 
 ### Proyek
-![Proyek](screenshots/proyek.png)
+![proyek](screenshots/proyek.png)
 
 ### Kontak
-![Kontak](screenshots/kontak.png)
+![kontak](screenshots/kontak.png)

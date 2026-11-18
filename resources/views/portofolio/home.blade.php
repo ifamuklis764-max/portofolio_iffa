@@ -64,7 +64,7 @@
 
         nav a {
             color: var(--brown);
-            font-size: 10px;
+            font-size: 11px;
             font-weight: 800;
             text-decoration: none;
             text-transform: uppercase;
@@ -130,7 +130,7 @@
 
         .cover-copy > span {
             color: var(--brown);
-            font-size: 9px;
+            font-size: 10px;
             font-weight: 900;
             letter-spacing: .14em;
         }
@@ -157,7 +157,7 @@
         .cover-role {
             margin-top: 12px;
             color: var(--muted);
-            font-size: 9px;
+            font-size: 10px;
             font-weight: 800;
             letter-spacing: .12em;
         }
@@ -208,7 +208,7 @@
             padding: 4px;
             color: var(--brown-dark);
             background: rgba(255, 246, 207, .9);
-            font-size: 8px;
+            font-size: 9px;
             font-weight: 800;
             text-align: center;
         }
@@ -297,13 +297,13 @@
             margin-bottom: 5px;
             color: var(--brown);
             font-family: Georgia, 'Times New Roman', serif;
-            font-size: 14px;
+            font-size: 15px;
             font-style: italic;
         }
 
         .reason-card p {
             color: #634c42;
-            font-size: 10px;
+            font-size: 12px;
             line-height: 1.55;
         }
 
@@ -342,7 +342,7 @@
             max-width: 420px;
             margin-bottom: 12px;
             color: #f3e7d4;
-            font-size: 11px;
+            font-size: 13px;
             line-height: 1.75;
         }
 
@@ -370,7 +370,7 @@
             grid-template-columns: 100px 1fr;
             gap: 12px;
             border-top: 1px solid rgba(75, 33, 28, .24);
-            font-size: 10px;
+            font-size: 12px;
             line-height: 1.5;
         }
 
@@ -398,13 +398,13 @@
         .project-intro p {
             margin-bottom: 12px;
             color: #604b43;
-            font-size: 11px;
+            font-size: 13px;
             line-height: 1.7;
         }
 
         .project-intro a {
             color: var(--brown);
-            font-size: 10px;
+            font-size: 11px;
             font-weight: 900;
             text-decoration: underline;
         }
@@ -518,23 +518,25 @@
         }
 
         .card h3 {
+            min-height: 2.4em;
             margin: 4px 0;
             color: var(--brown);
             font-family: Georgia, 'Times New Roman', serif;
-            font-size: 13px;
+            font-size: 15px;
+            line-height: 1.2;
         }
 
         .card p {
             min-height: 62px;
             color: #68594e;
-            font-size: 9px;
+            font-size: 11px;
             line-height: 1.55;
         }
 
         .card h4 {
             margin: 8px 0 5px;
             color: var(--brown);
-            font-size: 8px;
+            font-size: 9px;
             font-weight: 900;
             text-transform: uppercase;
         }
@@ -549,7 +551,7 @@
             padding: 3px 5px;
             color: var(--brown);
             background: #f1e8c9;
-            font-size: 8px;
+            font-size: 9px;
             font-weight: 700;
         }
 
@@ -574,7 +576,7 @@
         .contact p {
             margin-top: 5px;
             color: #f0dfc8;
-            font-size: 10px;
+            font-size: 12px;
             line-height: 1.6;
         }
 
@@ -584,7 +586,7 @@
             color: var(--brown);
             background: var(--cream);
             border: 1px solid var(--cream);
-            font-size: 9px;
+            font-size: 10px;
             font-weight: 900;
             text-decoration: none;
         }
@@ -597,7 +599,7 @@
         footer {
             padding: 14px;
             color: var(--brown);
-            font-size: 9px;
+            font-size: 10px;
             font-weight: 700;
             text-align: center;
         }
@@ -655,7 +657,7 @@
             }
 
             .cover-role {
-                font-size: 7px;
+                font-size: 9px;
             }
 
             .why-work {
